@@ -1,5 +1,8 @@
 # youzan-admin
 
+## 简介
+本项目为VueCLI项目，需要在本机安装node.js，然后按照下面的步骤运行
+
 ## Project setup
 ```
 npm install
